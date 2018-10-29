@@ -3,7 +3,6 @@
 
 Click on the skin name to download. 
 
-# Some of the skins im using might be private and are not listed here!
 
 # [Chintada Purple](https://puu.sh/ydIgE/4d1d75821d.osk)
 ![](https://osu.ppy.sh/ss/12048634)
