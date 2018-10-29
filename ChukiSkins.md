@@ -16,11 +16,11 @@ Credits to: [Pyjama Miko] (https://osu.ppy.sh/community/forums/topics/778739)
 ![](https://osu.ppy.sh/ss/12048765)
 
 # [Chintada Pink](https://puu.sh/BSTHB/df3d700efb.osk) 
-![](https://osu.ppy.sh/ss/8071451)
+![](https://osu.ppy.sh/ss/12048738)
 
 # [Chuki's Burakku Shipu](https://puu.sh/BSTFz/6190c80f28.osk) 
-![](https://osu.ppy.sh/ss/7780238)
+![](https://osu.ppy.sh/ss/12048805)
 
 # [Chuki's Grey Skin](https://puu.sh/BSTDX/da10f274f6.osk) 
-![](https://osu.ppy.sh/ss/7008799)
-
+![](https://osu.ppy.sh/ss/12048808)
+
